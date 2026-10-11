@@ -1,0 +1,14 @@
+testBase\TC002_LoginTest.class
+PagesObjects\Searchpage.class
+utilities\ExcelUtility.class
+testBase\BaseClass.class
+testBase\TC002_LoginTestDDT.class
+PagesObjects\HomePage.class
+PagesObjects\BasePage.class
+PagesObjects\RegisterPage.class
+utilities\ExtentReportManager.class
+utilities\DataProviders.class
+PagesObjects\MyAccountPage.class
+testBase\TC001_AccountregistrationTest.class
+PagesObjects\Loginpage.class
+testBase\TC003_SearchProduct.class

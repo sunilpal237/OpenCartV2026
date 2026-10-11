@@ -1,0 +1,2 @@
+cd C:\My workspace\OpenCartV2026
+mvn test

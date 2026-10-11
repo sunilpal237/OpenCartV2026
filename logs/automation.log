@@ -1,0 +1,130 @@
+2026-10-11 00:25:15 INFO  Utils:112 - [TestNG] Running:
+  C:\My workspace\OpenCartV2026\testng.xml
+
+2026-10-11 00:35:05 INFO  Utils:112 - [TestNG] Running:
+  C:\My workspace\OpenCartV2026\testng.xml
+
+2026-10-11 00:35:10 INFO  TC001_AccountregistrationTest:113 - Browser started: chrome
+2026-10-11 00:35:10 INFO  TC001_AccountregistrationTest:114 - Execution environment: Local
+2026-10-11 00:35:10 INFO  TC001_AccountregistrationTest:115 - Execution Windows: Windows
+2026-10-11 00:35:11 INFO  TC001_AccountregistrationTest:124 - Application URL loaded
+2026-10-11 00:35:11 INFO  TC001_AccountregistrationTest:137 - *** URL loaded ***
+2026-10-11 00:35:11 INFO  TC001_AccountregistrationTest:16 - **********Starting TC001_AccountregistrationTest*****
+2026-10-11 00:35:12 INFO  TC001_AccountregistrationTest:19 - **********Click on myaccount link*****
+2026-10-11 00:35:12 INFO  TC001_AccountregistrationTest:22 - **********Click on register link*****
+2026-10-11 00:35:12 INFO  TC001_AccountregistrationTest:24 - **********Form element Locator start*****
+2026-10-11 00:35:15 INFO  TC001_AccountregistrationTest:38 - **********Fecting element Locator Finished*****
+2026-10-11 00:35:16 INFO  TC001_AccountregistrationTest:44 - **********Validation of confirmation message*****
+2026-10-11 00:35:16 INFO  TC001_AccountregistrationTest:46 - **********Finished TC001_AccountregistrationTest *****
+2026-10-11 00:35:16 INFO  TC001_AccountregistrationTest:145 - *** Browser closed ***
+2026-10-11 00:35:17 INFO  TC002_LoginTest:113 - Browser started: chrome
+2026-10-11 00:35:17 INFO  TC002_LoginTest:114 - Execution environment: Local
+2026-10-11 00:35:17 INFO  TC002_LoginTest:115 - Execution Windows: Windows
+2026-10-11 00:35:19 INFO  TC002_LoginTest:124 - Application URL loaded
+2026-10-11 00:35:19 INFO  TC002_LoginTest:137 - *** URL loaded ***
+2026-10-11 00:35:19 INFO  TC002_LoginTest:16 - Staring TC002_LoginTest
+2026-10-11 00:35:21 INFO  TC002_LoginTest:39 - Finished TC002_LoginTest
+2026-10-11 00:35:22 INFO  TC002_LoginTest:145 - *** Browser closed ***
+2026-10-11 00:35:23 INFO  TC003_SearchProduct:113 - Browser started: chrome
+2026-10-11 00:35:23 INFO  TC003_SearchProduct:114 - Execution environment: Local
+2026-10-11 00:35:23 INFO  TC003_SearchProduct:115 - Execution Windows: Windows
+2026-10-11 00:35:24 INFO  TC003_SearchProduct:124 - Application URL loaded
+2026-10-11 00:35:24 INFO  TC003_SearchProduct:137 - *** URL loaded ***
+2026-10-11 00:35:24 INFO  TC003_SearchProduct:13 - Start TC003_SearchProduct
+2026-10-11 00:35:24 INFO  TC002_LoginTest:16 - Staring TC002_LoginTest
+2026-10-11 00:35:27 INFO  TC002_LoginTest:39 - Finished TC002_LoginTest
+2026-10-11 00:35:27 INFO  TC003_SearchProduct:34 - Finished TC003_SearchProduct
+2026-10-11 00:35:28 INFO  TC003_SearchProduct:145 - *** Browser closed ***
+2026-10-11 00:49:30 INFO  TC001_AccountregistrationTest:113 - Browser started: chrome
+2026-10-11 00:49:30 INFO  TC001_AccountregistrationTest:114 - Execution environment: Local
+2026-10-11 00:49:30 INFO  TC001_AccountregistrationTest:115 - Execution Windows: Windows
+2026-10-11 00:49:31 INFO  TC001_AccountregistrationTest:124 - Application URL loaded
+2026-10-11 00:49:32 INFO  TC001_AccountregistrationTest:137 - *** URL loaded ***
+2026-10-11 00:49:32 INFO  TC001_AccountregistrationTest:16 - **********Starting TC001_AccountregistrationTest*****
+2026-10-11 00:49:32 INFO  TC001_AccountregistrationTest:19 - **********Click on myaccount link*****
+2026-10-11 00:49:32 INFO  TC001_AccountregistrationTest:22 - **********Click on register link*****
+2026-10-11 00:49:32 INFO  TC001_AccountregistrationTest:24 - **********Form element Locator start*****
+2026-10-11 00:49:35 INFO  TC001_AccountregistrationTest:38 - **********Fecting element Locator Finished*****
+2026-10-11 00:49:35 INFO  TC001_AccountregistrationTest:44 - **********Validation of confirmation message*****
+2026-10-11 00:49:35 INFO  TC001_AccountregistrationTest:46 - **********Finished TC001_AccountregistrationTest *****
+2026-10-11 00:49:36 INFO  TC001_AccountregistrationTest:145 - *** Browser closed ***
+2026-10-11 00:49:38 INFO  TC002_LoginTest:113 - Browser started: chrome
+2026-10-11 00:49:38 INFO  TC002_LoginTest:114 - Execution environment: Local
+2026-10-11 00:49:38 INFO  TC002_LoginTest:115 - Execution Windows: Windows
+2026-10-11 00:49:39 INFO  TC002_LoginTest:124 - Application URL loaded
+2026-10-11 00:49:39 INFO  TC002_LoginTest:137 - *** URL loaded ***
+2026-10-11 00:49:39 INFO  TC002_LoginTest:16 - Staring TC002_LoginTest
+2026-10-11 00:49:41 INFO  TC002_LoginTest:39 - Finished TC002_LoginTest
+2026-10-11 00:49:42 INFO  TC002_LoginTest:145 - *** Browser closed ***
+2026-10-11 00:49:43 INFO  TC003_SearchProduct:113 - Browser started: chrome
+2026-10-11 00:49:43 INFO  TC003_SearchProduct:114 - Execution environment: Local
+2026-10-11 00:49:43 INFO  TC003_SearchProduct:115 - Execution Windows: Windows
+2026-10-11 00:49:44 INFO  TC003_SearchProduct:124 - Application URL loaded
+2026-10-11 00:49:44 INFO  TC003_SearchProduct:137 - *** URL loaded ***
+2026-10-11 00:49:44 INFO  TC003_SearchProduct:13 - Start TC003_SearchProduct
+2026-10-11 00:49:44 INFO  TC002_LoginTest:16 - Staring TC002_LoginTest
+2026-10-11 00:49:47 INFO  TC002_LoginTest:39 - Finished TC002_LoginTest
+2026-10-11 00:49:47 INFO  TC003_SearchProduct:34 - Finished TC003_SearchProduct
+2026-10-11 00:49:48 INFO  TC003_SearchProduct:145 - *** Browser closed ***
+2026-10-11 13:46:38 INFO  TC001_AccountregistrationTest:113 - Browser started: chrome
+2026-10-11 13:46:38 INFO  TC001_AccountregistrationTest:114 - Execution environment: Local
+2026-10-11 13:46:38 INFO  TC001_AccountregistrationTest:115 - Execution Windows: Windows
+2026-10-11 13:46:39 INFO  TC001_AccountregistrationTest:124 - Application URL loaded
+2026-10-11 13:46:40 INFO  TC001_AccountregistrationTest:137 - *** URL loaded ***
+2026-10-11 13:46:40 INFO  TC001_AccountregistrationTest:16 - **********Starting TC001_AccountregistrationTest*****
+2026-10-11 13:46:40 INFO  TC001_AccountregistrationTest:19 - **********Click on myaccount link*****
+2026-10-11 13:46:40 INFO  TC001_AccountregistrationTest:22 - **********Click on register link*****
+2026-10-11 13:46:40 INFO  TC001_AccountregistrationTest:24 - **********Form element Locator start*****
+2026-10-11 13:46:42 INFO  TC001_AccountregistrationTest:38 - **********Fecting element Locator Finished*****
+2026-10-11 13:46:42 INFO  TC001_AccountregistrationTest:44 - **********Validation of confirmation message*****
+2026-10-11 13:46:42 INFO  TC001_AccountregistrationTest:46 - **********Finished TC001_AccountregistrationTest *****
+2026-10-11 13:46:43 INFO  TC001_AccountregistrationTest:145 - *** Browser closed ***
+2026-10-11 13:46:44 INFO  TC002_LoginTest:113 - Browser started: chrome
+2026-10-11 13:46:44 INFO  TC002_LoginTest:114 - Execution environment: Local
+2026-10-11 13:46:44 INFO  TC002_LoginTest:115 - Execution Windows: Windows
+2026-10-11 13:46:45 INFO  TC002_LoginTest:124 - Application URL loaded
+2026-10-11 13:46:45 INFO  TC002_LoginTest:137 - *** URL loaded ***
+2026-10-11 13:46:45 INFO  TC002_LoginTest:16 - Staring TC002_LoginTest
+2026-10-11 13:46:47 INFO  TC002_LoginTest:39 - Finished TC002_LoginTest
+2026-10-11 13:46:47 INFO  TC002_LoginTest:145 - *** Browser closed ***
+2026-10-11 13:46:48 INFO  TC003_SearchProduct:113 - Browser started: chrome
+2026-10-11 13:46:48 INFO  TC003_SearchProduct:114 - Execution environment: Local
+2026-10-11 13:46:48 INFO  TC003_SearchProduct:115 - Execution Windows: Windows
+2026-10-11 13:46:49 INFO  TC003_SearchProduct:124 - Application URL loaded
+2026-10-11 13:46:50 INFO  TC003_SearchProduct:137 - *** URL loaded ***
+2026-10-11 13:46:50 INFO  TC003_SearchProduct:13 - Start TC003_SearchProduct
+2026-10-11 13:46:50 INFO  TC002_LoginTest:16 - Staring TC002_LoginTest
+2026-10-11 13:46:51 INFO  TC002_LoginTest:39 - Finished TC002_LoginTest
+2026-10-11 13:46:52 INFO  TC003_SearchProduct:34 - Finished TC003_SearchProduct
+2026-10-11 13:46:52 INFO  TC003_SearchProduct:145 - *** Browser closed ***
+2026-10-11 13:53:30 INFO  TC001_AccountregistrationTest:113 - Browser started: chrome
+2026-10-11 13:53:30 INFO  TC001_AccountregistrationTest:114 - Execution environment: Local
+2026-10-11 13:53:30 INFO  TC001_AccountregistrationTest:115 - Execution Windows: Windows
+2026-10-11 13:53:31 INFO  TC001_AccountregistrationTest:124 - Application URL loaded
+2026-10-11 13:53:31 INFO  TC001_AccountregistrationTest:137 - *** URL loaded ***
+2026-10-11 13:53:31 INFO  TC001_AccountregistrationTest:16 - **********Starting TC001_AccountregistrationTest*****
+2026-10-11 13:53:32 INFO  TC001_AccountregistrationTest:19 - **********Click on myaccount link*****
+2026-10-11 13:53:32 INFO  TC001_AccountregistrationTest:22 - **********Click on register link*****
+2026-10-11 13:53:32 INFO  TC001_AccountregistrationTest:24 - **********Form element Locator start*****
+2026-10-11 13:53:34 INFO  TC001_AccountregistrationTest:38 - **********Fecting element Locator Finished*****
+2026-10-11 13:53:34 INFO  TC001_AccountregistrationTest:44 - **********Validation of confirmation message*****
+2026-10-11 13:53:34 INFO  TC001_AccountregistrationTest:46 - **********Finished TC001_AccountregistrationTest *****
+2026-10-11 13:53:34 INFO  TC001_AccountregistrationTest:145 - *** Browser closed ***
+2026-10-11 13:53:35 INFO  TC002_LoginTest:113 - Browser started: chrome
+2026-10-11 13:53:35 INFO  TC002_LoginTest:114 - Execution environment: Local
+2026-10-11 13:53:35 INFO  TC002_LoginTest:115 - Execution Windows: Windows
+2026-10-11 13:53:36 INFO  TC002_LoginTest:124 - Application URL loaded
+2026-10-11 13:53:36 INFO  TC002_LoginTest:137 - *** URL loaded ***
+2026-10-11 13:53:36 INFO  TC002_LoginTest:16 - Staring TC002_LoginTest
+2026-10-11 13:53:38 INFO  TC002_LoginTest:39 - Finished TC002_LoginTest
+2026-10-11 13:53:38 INFO  TC002_LoginTest:145 - *** Browser closed ***
+2026-10-11 13:53:40 INFO  TC003_SearchProduct:113 - Browser started: chrome
+2026-10-11 13:53:40 INFO  TC003_SearchProduct:114 - Execution environment: Local
+2026-10-11 13:53:40 INFO  TC003_SearchProduct:115 - Execution Windows: Windows
+2026-10-11 13:53:41 INFO  TC003_SearchProduct:124 - Application URL loaded
+2026-10-11 13:53:41 INFO  TC003_SearchProduct:137 - *** URL loaded ***
+2026-10-11 13:53:41 INFO  TC003_SearchProduct:13 - Start TC003_SearchProduct
+2026-10-11 13:53:41 INFO  TC002_LoginTest:16 - Staring TC002_LoginTest
+2026-10-11 13:53:43 INFO  TC002_LoginTest:39 - Finished TC002_LoginTest
+2026-10-11 13:53:43 INFO  TC003_SearchProduct:34 - Finished TC003_SearchProduct
+2026-10-11 13:53:43 INFO  TC003_SearchProduct:145 - *** Browser closed ***
