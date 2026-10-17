@@ -19,6 +19,19 @@ public class Searchpage extends BasePage
 
 	
 	@FindBy(xpath="//div[@class='caption']//a[contains(text(),'iPhone')]")WebElement productname;
+	
+	@FindBy(xpath="//p[@class='price']")WebElement productprice;
+	
+	@FindBy(xpath="//div[@class='product-layout product-grid col-lg-3 col-md-3 col-sm-6 col-xs-12']//button[1]")WebElement addcart;
+	
+	@FindBy(xpath="//div[@class='product-layout product-grid col-lg-3 col-md-3 col-sm-6 col-xs-12']//button[1]")WebElement Confmess;
+
+	
+	
+
+	
+	
+
 
     
 	public void Setproductname(String prname)

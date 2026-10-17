@@ -16,6 +16,7 @@
             <class name="testBase.TC001_AccountregistrationTest"/>
             <class name="testBase.TC002_LoginTest"/>
             <class name="testBase.TC003_SearchProduct"/>
+            <class name="testBase.TC004_AddCart"/>
             <!-- <class name="testBase.TC002_LoginTestDDT"/> -->
         </classes>
 

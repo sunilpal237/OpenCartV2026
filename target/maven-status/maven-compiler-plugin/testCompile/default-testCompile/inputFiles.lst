@@ -1,3 +1,4 @@
+C:\My workspace\OpenCartV2026\src\test\java\PagesObjects\AddProductCart.java
 C:\My workspace\OpenCartV2026\src\test\java\PagesObjects\BasePage.java
 C:\My workspace\OpenCartV2026\src\test\java\PagesObjects\HomePage.java
 C:\My workspace\OpenCartV2026\src\test\java\PagesObjects\Loginpage.java
@@ -9,6 +10,8 @@ C:\My workspace\OpenCartV2026\src\test\java\testBase\TC001_AccountregistrationTe
 C:\My workspace\OpenCartV2026\src\test\java\testBase\TC002_LoginTest.java
 C:\My workspace\OpenCartV2026\src\test\java\testBase\TC002_LoginTestDDT.java
 C:\My workspace\OpenCartV2026\src\test\java\testBase\TC003_SearchProduct.java
+C:\My workspace\OpenCartV2026\src\test\java\testBase\TC004_AddCart.java
+C:\My workspace\OpenCartV2026\src\test\java\testBase\TC_004Verify.java
 C:\My workspace\OpenCartV2026\src\test\java\utilities\DataProviders.java
 C:\My workspace\OpenCartV2026\src\test\java\utilities\ExcelUtility.java
 C:\My workspace\OpenCartV2026\src\test\java\utilities\ExtentReportManager.java
